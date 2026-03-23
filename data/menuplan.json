@@ -1,1 +1,88 @@
-{}
+{
+  "2026-03-21": {
+    "Samstag": {
+      "Zmittag": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      },
+      "Znacht": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      }
+    },
+    "Sonntag": {
+      "Zmittag": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      },
+      "Znacht": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      }
+    },
+    "Montag": {
+      "Zmittag": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      },
+      "Znacht": {
+        "name": "Pasta mit Pilzen, Pepperoni und Rahm",
+        "link": "",
+        "notes": ""
+      }
+    },
+    "Dienstag": {
+      "Zmittag": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      },
+      "Znacht": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      }
+    },
+    "Mittwoch": {
+      "Zmittag": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      },
+      "Znacht": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      }
+    },
+    "Donnerstag": {
+      "Zmittag": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      },
+      "Znacht": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      }
+    },
+    "Freitag": {
+      "Zmittag": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      },
+      "Znacht": {
+        "name": "",
+        "link": "",
+        "notes": ""
+      }
+    }
+  }
+}
